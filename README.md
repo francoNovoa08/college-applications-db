@@ -32,3 +32,7 @@ The database consists of the following tables:
    ```bash
    git clone https://github.com/yourusername/college_applications_db.git
    cd college_applications_db
+2. Create the database:
+   ```bash
+   createdb college_applications_db
+
