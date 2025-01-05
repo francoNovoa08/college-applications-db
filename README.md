@@ -16,10 +16,9 @@ The database consists of the following tables:
 1. **universities**
 2. **tests**
 3. **universities_tests**
-4. **applications**
-5. **cities**
-6. **states**
-7. **countries**
+4. **cities**
+5. **states**
+6. **countries**
 
 ![Entity-Relationship Diagram](ERD.png)
 
